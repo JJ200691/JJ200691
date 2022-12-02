@@ -14,13 +14,16 @@
 ![react](react.png)![redux](redux.png)![node](node.png)![sequelize](sequelize.png)![express](express.png)![postgre](postgre.png)![mysql](mysql.png)![git](git.png)  
 ***
 ### 🟡 Proyectos realizados  
- 
-- SPA Videogames (en desarrollo)  
-
-`Single Page Aplication de videojuegos, donde se pueden visualizar videojuegos, filtrarlos y crear juegos nuevos a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`  
+  
 - SPA Foods (en desarrollo)  
 
-`Single Page Aplication de comidas, donde se pueden visualizar tipos de comidas, filtrarlas y crear comidas nuevas a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`
+`Single Page Aplication de comidas, donde se pueden visualizar tipos de comidas, filtrarlas y crear comidas nuevas a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`  
+- SPA Dogs (en desarrollo)  
+
+`Single Page Aplication de perros, donde se pueden visualizar razas de perros, filtrarlos y crear nuevas razas a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`  
+- SPA Videogames (en desarrollo)  
+
+`Single Page Aplication de videojuegos, donde se pueden visualizar videojuegos, filtrarlos y crear juegos nuevos a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.` 
 ***
 ### 🟠 Como contactarme  
 
