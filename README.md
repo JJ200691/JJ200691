@@ -15,7 +15,15 @@
 ***
 ### 🟡 Proyectos realizados  
  
-- SPA Dogs  
+- SPA Videogames (en desarrollo)  
 
-`Single Page Aplication de perros, donde se puedem visualizar razas de perros, filtrarlas y crear razas a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`
+`Single Page Aplication de videojuegos, donde se pueden visualizar videojuegos, filtrarlos y crear juegos nuevos a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`  
+- SPA Foods (en desarrollo)  
 
+`Single Page Aplication de comidas, donde se pueden visualizar tipos de comidas, filtrarlas y crear comidas nuevas a través de un formulario. Las herramientas utilizadas fueron React, Redux, Node, Express y Postgre.`
+***
+### 🟠 Como contactarme  
+
+- 📲 2616180757
+- 📧 juanjomm71@gmail.com
+ 
