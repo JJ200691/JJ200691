@@ -21,8 +21,8 @@
 ***
 - E-commerce Videogames
 
-`Tienda virtual de videojuegos realizada de forma grupal utilizado SCRUM y metodologías ágiles, donde se pueden visualizar videojuegos, filtrarlos, loguearse como usuario, hacer compras a través de Mercado Pago, enviar solicitudes de amistad, hacer comentarios sobre los productos y darles una valoración. Las herramientas utilizadas fueron React, Redux-Toolkit, Node, Express, PostrgreSQL, Auth0, TypeScript, Vite, entre otras.`
-***
+`Tienda virtual de videojuegos realizada de forma grupal utilizado SCRUM y metodologías ágiles, donde se pueden visualizar videojuegos, filtrarlos, loguearse como usuario, hacer compras a través de Mercado Pago, enviar solicitudes de amistad, hacer comentarios sobre los productos y darles una valoración. Las herramientas utilizadas fueron React, Redux-Toolkit, Node, Express, PostrgreSQL, Auth0, TypeScript, Vite, entre otras.`  
+
 `Deploy:`  https://games-store-v.netlify.app/
 ### 🟠 Como contactarme  
 
