@@ -19,6 +19,10 @@
 
 `Single Page Aplication de videojuegos, donde se pueden visualizar videojuegos, filtrarlos y crear juegos nuevos a través de un formulario controlado. Las herramientas utilizadas fueron React, Redux, Node, Express y PostgreSQL.` 
 ***
+- E-commerce Videogames
+
+`Tienda virtual de videojuegos donde se pueden visualizar videojuegos, filtrarlos, loguearse como usuario, hacer compras a través de Mercado Pago, enviar solicitudes de amistad, hacer comentarios sobre los productos y darles una valoración. Las herramientas utilizadas fueron React, Redux-Toolkit, Node, Express, PostrgreSQL, Auth0, TypeScript, Vite, entre otras.`
+`Deploy:`  https://games-store-v.netlify.app/
 ### 🟠 Como contactarme  
 
 - 📲 2616180757
