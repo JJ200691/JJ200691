@@ -15,9 +15,10 @@
 ***
 ### 🟡 Proyectos realizados  
 
-- SPA Videogames  
+- Proyecto Individual Videogames  
 
-`Single Page Aplication de videojuegos, donde se pueden visualizar videojuegos, filtrarlos y crear juegos nuevos a través de un formulario controlado. Las herramientas utilizadas fueron React, Redux, Node, Express y PostgreSQL.` 
+`Aplicación de videojuegos, donde se pueden visualizar videojuegos, filtrarlos y crear juegos nuevos a través de un formulario controlado. Las herramientas utilizadas fueron React, Redux, Node, Express y PostgreSQL.` 
+![img1](./PI1.png)![img2](./PI2.png)![img3](./PI3.png)![img4](./PI4.png)![img5](./PI5.png)
 ***
 - E-commerce Videogames
 
